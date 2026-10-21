@@ -1,0 +1,11 @@
+{
+  "name": "protect-tv-local-launcher",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Launch the local Protect TV viewer through TizenBrew.",
+  "appName": "Protect TV",
+  "packageType": "mods",
+  "websiteURL": "http://10.10.10.61:8097/",
+  "main": "launcher.js",
+  "keys": []
+}
